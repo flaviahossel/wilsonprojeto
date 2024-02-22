@@ -1,6 +1,11 @@
 :root{
     --cor-fundo:#0A22A0;
     --cor-fonte:#FFFFFF;
-    
+    --cor-fundo-escola:#DBC92C;
 
+
+
+}
+.cabecalho{
+    background-color: #0A22A0;
 }
