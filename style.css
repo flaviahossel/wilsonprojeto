@@ -8,5 +8,11 @@
 }
 .cabecalho{
     background-color: #0A22A0;
-    color:var(--cor-fonte)
+    color:var(--cor-fonte);
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+padding: 24px;
+.imagem-cabecalho{
+    
 }
