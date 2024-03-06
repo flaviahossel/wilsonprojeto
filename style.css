@@ -29,3 +29,6 @@ padding: 24px;
 escola-imagem{
     width: 28%;
 }
+.escola{
+    background-image: -moz-linear-gradient(#C4B639, #15239F);
+}
