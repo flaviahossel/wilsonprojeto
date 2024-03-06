@@ -12,7 +12,13 @@
     display: flex;
     justify-content: space-around;
 align-items: center;
-padding: 24px;
+padding: 24px;   
+}
 .imagem-cabecalho{
-    
+    width: 10%;
+}
+.item-lista-cabecalho{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
