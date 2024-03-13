@@ -32,5 +32,7 @@ escola-imagem{
 .escola{
     background-image: linear-gradient(#BBAF3E,#15239F);
     display: flex;
+    align-items: center;
+    padding: 24px 0;
 }
     
