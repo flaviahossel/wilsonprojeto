@@ -58,3 +58,10 @@ escola-imagem{
     display: grid;
     grid-template-columns:25% 25% 25% 25%;
    }
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+.estudante{
+    background-color:linear-gradient(#FAFAFA #ABABAB);
+}
